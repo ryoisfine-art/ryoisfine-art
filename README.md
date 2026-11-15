@@ -34,12 +34,6 @@
 - Self-hosting & Homelabs
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ryoisfine-art&theme=tokyonight&radius=10" alt="ryoisfine-art's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -85,13 +79,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryoisfine-art">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryoisfine-art&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=ryoisfine-art)
 <br/>
 
 ## 🔗 Connect with Me
